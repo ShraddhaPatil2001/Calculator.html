@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 10;
+}
+form{
+    background-color: rgba(133, 4, 4, 0.89);
+    height: 450px;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-color: 15px solid rgb(150, 19, 177);
+    border-radius:30
+}
+  
+
+input{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    width: 200px;
+    text-align: right;
+  
+}
+ form button{
+    margin-top: 20px;
+    margin-left:20px ;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+span{
+    color: brown;
+    font-size: 20;}
